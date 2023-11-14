@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2023",
+      "title": "First Npx Project",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-with-npx.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/3182774/pexels-photo-3182774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+
+    {
+      "date": "11/10/2023",
+      "title": "World of Gaming",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://preject2-npx.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/7915492/pexels-photo-7915492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "date": "15/10/2023",
+      "title": "XCrypto",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://crypto-with-react.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+
+    {
+      "date": "17/10/2023",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-nine-steel.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/3985062/pexels-photo-3985062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "date": "11/11/2023",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}

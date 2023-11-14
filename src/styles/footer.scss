@@ -1,0 +1,53 @@
+footer{
+    min-height: 50px;
+    padding: 6rem 0;
+    padding-left: $p;
+    display: grid;
+    grid-template-columns: 10fr 3fr 1fr;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    border-top: 3px solid;
+    >div{
+        width: 100%;
+        border-left: 2px solid;
+        border-right: 2px solid;
+        img{
+            margin: auto;
+            width: 10%;
+            height: 10%;
+            border-radius:100%;
+            object-fit: contain;
+        }
+        >h2{
+            margin: 1rem;
+
+        }
+        >p{
+            font: 400 1.2rem $text2;
+        }
+    }
+
+    > aside >article{
+        margin-top: 1rem;
+        gap: 0.8rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        svg{
+            font-size: 2rem;
+            &:hover{
+                opacity: 0.7;
+            }
+        }
+    }
+    >a{
+        background-color: transparent;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: grid;
+        place-items: center;
+
+    }
+}
